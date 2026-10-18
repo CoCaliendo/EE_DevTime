@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# data and results
+*.txt
+*.csv
+*.theta
+*.fq.gz
+*.fasta
+*.annotations
+*.mpileup
+*.sync
+# figures
+figures/
+*.png
+*.pdf
